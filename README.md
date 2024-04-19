@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Regalo
+
+## Intro
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).  
+The main goal of this app is to help its users to find presents for anybody else, and be sure it will be a good one.  
+To do that the concept is that each user list ideas for himself / herself, or for another person.  
+That's the plan of this, the rest will come soon :wink: !
 
 ## Getting Started
 
